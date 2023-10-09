@@ -1,0 +1,5 @@
+l=int(input("enter l: "))
+b=int(input("enter b: "))
+h=int(input("enter h: "))
+surface_area=2*((l*b)+(b*h)+(h*l))
+print(surface_area)
